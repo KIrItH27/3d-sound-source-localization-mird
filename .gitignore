@@ -1,0 +1,11 @@
+
+# Exclude the dataset
+dataset_mird/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
