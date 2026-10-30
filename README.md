@@ -1,4 +1,4 @@
-# 3D Sound Source Localization Using Real-World Acoustic Impulse Responses (MIRD) and Deep Learning
+# 3D Sound Source Localization Using Real-World Acoustic Impulse Responses (MIRD)
 
 [![Course](https://img.shields.io/badge/Course-Introduction%20to%20AIML-blue.svg)](https://github.com/)
 [![Team](https://img.shields.io/badge/Team-A13-green.svg)](https://github.com/)
